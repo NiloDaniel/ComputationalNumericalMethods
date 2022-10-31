@@ -1,11 +1,11 @@
-NUMBER     ,  H01,H02,H03,H04,H05,H06,
-1038768451 ,    A,  A,  A,   ,   ,   ,
-1039461641 ,    A,  A,	 ,   ,   ,   ,
-1036659203 ,    -,   ,	 ,   ,   ,   ,
-1010157719 ,    A,  A,	 ,   ,   ,   ,
-1017260561 ,    A,  A,	A,  A,  A,  A,
-1000595702 ,    A,  R,	 ,   ,   ,   ,
-1001477874 ,    A,  A,	A,  A,  A,  A,
+NUMBER     ,  H01,H02,H03,H04,H05,H06,H07,H08,H09,
+1038768451 ,    A,  A,  A,   ,   ,   ,   ,   ,   ,
+1039461641 ,    A,  A,	 ,   ,   ,   ,   ,   ,   ,
+1036659203 ,    -,   ,	 ,   ,   ,   ,   ,   ,   ,
+1010157719 ,    A,  A,	 ,   ,   ,   ,   ,   ,   ,
+1017260561 ,    A,  A,	A,  A,  A,  A,  A,   ,   ,
+1000595702 ,    A,  R,	 ,   ,   ,   ,   ,   ,   ,
+1001477874 ,    A,  A,	A,  A,  A,  A,   ,   ,   ,
 
 homework_01 - Python repaso
 homework_02 - Root Finding
@@ -14,6 +14,8 @@ homework_04 - Numerical Derivative
 homework_05 - Numerical Integration
 homework_06 - Monte Carlo Method
 homework_07 - System of linear equations
+homework_08 - Differential Equations I
+homework_09 - Differential Equations II
 
 
 A: approved

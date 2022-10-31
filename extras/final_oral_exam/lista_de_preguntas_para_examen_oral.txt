@@ -93,3 +93,13 @@ Explain the operations:
     b) product = np.matmul(matrix1, matrix2)	    
 
 30. What is the difference between Bisection and Newton-Rapson method?
+
+31. Create any funtion that accepts two numbers and returns two results: sum of the two numbers and product of the two numbers, 
+    then call the function and show it works (assigns two results to two variables)
+32. Show two examples of using loop "for" and two of loop "while"
+33. What is the difference between list and tuple?
+34. What is the purpose of "args=()" scipy.integrate.quad(func, a, b, args=())?
+35. What is wrong with this code:
+    for i in [1,2,3]
+        print(i)
+	 print(i**2)

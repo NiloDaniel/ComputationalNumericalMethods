@@ -16,14 +16,24 @@ A4: decomposes matriz into lower and upper matrix and then does backward/forward
 
 ############## Numpy array:
 1. how to generate 1D numpy array with 10 random integers between 1 and 100
-2. how to create 2D numpy array with 10 random integers between 1 and 30
-3. what is the difference between:	
+2. how to create 2D numpy array with 10 random integers between 1 and 30 (then extract a row or column from it)
+3. Matrix indexation and slicing
+    a) what is the difference between:	
     x=np.array([[1,2,3]]) 							
     y=np.array([[1],[2],[3]]) 
 
+    b) 
+    Dada matrix:
+    A=np.random.randint(1,10,(3,3))
+    
+    What is the difference between:
+    A[:][1] - explain output
+    A[:,1]  - explain output
+    
+
 ############# Plotting
 Plotting:
-4. make a plot of a s sinusoid with a range from -pi to pi			
+4. make a plot (fig,ax=plt.subplots(1,1), of a 1 sinusoid and 1 cosinusinoid with a range from -2pi to 2pi (with labels, colors, title x-axis and y-axis)
 
 ############## Random numbers (solo para explicar que significa siguiente operacion)
 Explain the operations:
